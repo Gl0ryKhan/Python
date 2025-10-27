@@ -10,6 +10,3 @@ tim_index = student1.index("Tim")
 student1[tim_index] = "Timothy"
 
 print(student1)
-
-
-
