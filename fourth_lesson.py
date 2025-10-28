@@ -9,18 +9,6 @@ if "Sasha" not in list1:
     print ("he is not in the list")
 
 
-
-
-
-
-
-
-
-
-
-
-
-exit()
 age = input("Enter your age ")
 if age == str(age):
     print ('You did not have written your age with numbers, try on more time')
